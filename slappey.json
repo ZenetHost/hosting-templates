@@ -1,0 +1,7 @@
+{
+  "name": "zenet_default",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "YOURTOKENHERE",
+  "prefix": "YOURPREFIX"
+}
