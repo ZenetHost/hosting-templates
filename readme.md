@@ -2,6 +2,6 @@
 # **Zenet templates**
 ### this is set of templates made for zenet.host
 ### of course you can use it outside of zenet.
-
+## Keep in mind this template is deprecated
 # contributing
 ### if you want to contribute, just make a pull request
